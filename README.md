@@ -1,2 +1,1 @@
-# bokepalim
-bokepalim
+# [bokepalim](https://bokepalim.pages.dev)
